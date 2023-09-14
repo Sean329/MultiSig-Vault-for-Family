@@ -4,7 +4,7 @@ This is a Goerli copy of a simple but practical version of a Multi-Sig vault tha
 
 This Goerli copy is for the demo purposes for any Web3 job application if a demo is required.
 
-This Multi-Sig vault works with both ETH and ERC20 payments, coded with DeFi security practice (prevent reentry) as well as gas optimization tricks.
+This Multi-Sig vault works with both ETH and ERC20 payments, coded with DeFi security practice (prevent reentry...etc.) as well as gas optimization tricks.
 
 I also added a *Dead Man's Switch* functionality to the contract so that in the situation of:
 1. One of us is dead or doesn't care about this vault no more ------ the other one can withdraw the money after a 52 weeks cool down period
