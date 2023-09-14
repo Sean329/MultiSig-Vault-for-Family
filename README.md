@@ -1,6 +1,6 @@
 # MultiSig Vault for Family
 
-This is a Goerli copy of a simple but practical version of a Multi-Sig vault that my family (myWife and mySelf) are using to send outgoing payments on Mainnet. Both people must sign to execute transactions so neigher of us can move the money without the other's consent. We both are Smart Contract advocators so we CODIFY our daily decision making processes.
+This is a Goerli copy of a simple but practical version of a Multi-Sig vault that my family (myWife and mySelf) are using to send outgoing payments on Mainnet. Both people must sign to execute transactions so neigher of us can move the money without the other's consent. We both are Smart Contract advocators so we CODIFY our daily decision making processes --- this one being one of the examples.
 
 This Goerli copy is for the demo purposes for any Web3 job application if a demo is required.
 
